@@ -5,7 +5,7 @@ Welcome to the Data Narrative Projects repository! This collection includes in-d
  ## Faculty Salaries and Statistics
 Dataset Description: Contains data on faculty members' salaries and other statistics across various institutions.
 
-### *Key Features:
+### Key Features:
 
 * Detailed analysis of salary distributions.
 * Comparison of salaries across institutions.
