@@ -2,12 +2,10 @@
 
 Welcome to the Data Narrative Projects repository! This collection includes in-depth analyses and narratives based on three diverse datasets. Each project involves reading data from CSV files, posing insightful questions, and writing Python code to derive meaningful insights and visualizations.
 
+ ## Faculty Salaries and Statistics
+Dataset Description: Contains data on faculty members' salaries and other statistics across various institutions.
 
-## Dataset Description:
-
-Contains data on faculty members' salaries and other statistics across various institutions.
-
-## *Key Features:
+### *Key Features:
 
 * Detailed analysis of salary distributions.
 * Comparison of salaries across institutions.
@@ -23,7 +21,7 @@ Dataset Description: Encompasses various details about books, ratings, and tags 
 * books_tags.csv: Contains goodreads_book_id, tag_id, and count.
 * tags.csv: Consists of tag_id and tag_name.
 * to_read.csv: Information regarding user_id and book_id.
-## Key Features:
+### Key Features:
 
 * Analysis of book ratings and popularity.
 * Exploration of author statistics and publication trends.
@@ -33,7 +31,7 @@ Dataset Description: Data on tennis matches from the Australian Open, French Ope
 ### Data Files:
 
 * Separate files for men's and women's matches for each tournament, each containing 42 columns of match data.
- ##Key Features:
+ ### Key Features:
 
 * Analysis of player performance and match statistics.
 * Trend identification across different tournaments.
